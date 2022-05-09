@@ -1,9 +1,0 @@
-local 저장소 만들기 -> git init
-git add "파일이름": 커밋에 추가할 파일
-git commit -m "내용": 설명 달아주기
-git log: 로그 확인
-git checkout "버전": 버전 돌아가기
-git remote add origin "주소": 원격저장소 설정
-git push origin master: 원격 저장소에 로컬 저장소 파일 업로드
-git clone
-git pull origin master: 원격 저장소 내용 로컬 저장소로 받아오기
